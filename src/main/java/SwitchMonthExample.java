@@ -1,4 +1,4 @@
-public class SwitchMonthExample {    
+ class SwitchMonthExample {    
 public static void main(String[] args) {    
     //Specifying month number  
     int month=7;    
