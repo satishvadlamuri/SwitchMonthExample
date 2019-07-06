@@ -28,7 +28,7 @@ public static void main(String[] args) {
     break;    
     case 11: monthString="11 - November";  
     break;    
-    case 12: monthString="12 - December";  
+    case 12: monthString="12 - Decemberuu";  
     break;    
     default:System.out.println("Invalid Month!");   
     }    
